@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Expense App (Login)</string>
+    <string name="app_name_signUp">Expense App (SignUp)</string>
+    <string name="app_name_Expense">Expense App</string>
+    <string name="app_name_Add">Add Expense</string>
+    <string name="app_name_Show">Show Expense</string>
+
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="login_signUp">Create New Account</string>
+
+    <string name="signUp_fullName">Full Name</string>
+    <string name="signUp_email">Email</string>
+    <string name="signUp_password">Password</string>
+    <string name="signUp_btn">Sign Up</string>
+    <string name="signUp_cancel">Cancel</string>
+
+    <string name="addExpense_label">Current Expenses: </string>
+    <string name="addExpense_hint">There is no expense to show, Please add your expenses from the menu.</string>
+    <string name="add_Title">Add An Expense </string>
+    <string name="add_Name">Expense Name</string>
+    <string name="add_Category">Category</string>
+    <string name="add_Amount">Amount</string>
+    <string name="add_SubmitButton">Add Expense</string>
+    <string name="add_CancelButton">Cancel</string>
+
+    <string name="detail_Title">Expense Details</string>
+    <string name="detail_Name">Name</string>
+    <string name="detail_Category">Category</string>
+    <string name="detail_Amount">Amount</string>
+    <string name="detail_Date">Date</string>
+    <string name="detail_Close">Close</string>
+
+    <string name="app_name_add">Add Expense</string>
+    <string name="app_name_view">Show Expense</string>
+
+
+    <string name="toast_no_internet">No Internet Connection...</string>
+    <string name="toast_empty_values">Email and Password fields cannot be empty</string>
+    <string name="toast_signup_empty_values">User details cannot be empty</string>
+    <string name="toast_loginFailed">Invalid Credentials</string>
+    <string name="toast_signup_error">Unable to create user account</string>
+    <string name="toast_signup_length_error">Password should have minimum of 6 characters</string>
+    <string name="toast_signup_success">User has been created</string>
+</resources>
